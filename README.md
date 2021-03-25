@@ -10,6 +10,6 @@ What you need to do now is customize this to your usernames, replace all SteamUs
 This bypasses Steam Guard once you have entered a Steam Guard code once per account whilst using this script.
 
 <h1>Usage</h1>
-Download SteamSwitchAccount.bat and customize using your favourite editor.
-Replace all SteamUsername1, SteamUsername2 etc with your steam username. 
+Download SteamSwitchAccount.bat and customize using your favourite editor.<br>
+Replace all SteamUsername1, SteamUsername2 etc with your steam username. <br>
 Note: The usernames need to match, so there are 2 x SteamUsername, make sure it's set to the same thing.
